@@ -1,0 +1,48 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csprojAssemblyReference.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CopyComplete
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.deps.json
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CopyComplete
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\TechStore\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.deps.json
+C:\TechStore\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\TechStore\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\TechStore\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\TechStore\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csprojAssemblyReference.cache
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfo.cs
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CopyComplete
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\TechStore\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.pdb
+E:\Blog\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.deps.json
+E:\Blog\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+E:\Blog\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+E:\Blog\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+E:\Blog\BlogApi\Core.Interfaces\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.AssemblyInfo.cs
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.csproj.CopyComplete
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.dll
+E:\Blog\BlogApi\Core.Interfaces\obj\Debug\netcoreapp3.1\Core.Interfaces.pdb

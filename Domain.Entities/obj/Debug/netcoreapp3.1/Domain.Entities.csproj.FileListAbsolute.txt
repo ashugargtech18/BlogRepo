@@ -1,0 +1,36 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\1698\Downloads\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\TechStore\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
+C:\TechStore\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\TechStore\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\TechStore\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
+C:\TechStore\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\TechStore\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\TechStore\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
+E:\Blog\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+E:\Blog\BlogApi\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+E:\Blog\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
+E:\Blog\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
+E:\Blog\BlogApi\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb

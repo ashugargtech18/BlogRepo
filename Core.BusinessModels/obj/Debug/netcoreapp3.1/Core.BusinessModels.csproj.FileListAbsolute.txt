@@ -1,0 +1,35 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csprojAssemblyReference.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.deps.json
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\1698\Downloads\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\TechStore\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.deps.json
+C:\TechStore\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\TechStore\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\TechStore\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfo.cs
+C:\TechStore\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\TechStore\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+E:\Blog\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.deps.json
+E:\Blog\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+E:\Blog\BlogApi\Core.BusinessModels\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+E:\Blog\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.AssemblyInfo.cs
+E:\Blog\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.dll
+E:\Blog\BlogApi\Core.BusinessModels\obj\Debug\netcoreapp3.1\Core.BusinessModels.pdb

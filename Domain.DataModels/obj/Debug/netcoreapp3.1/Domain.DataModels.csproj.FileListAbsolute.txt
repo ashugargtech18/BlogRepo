@@ -1,0 +1,36 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.deps.json
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\1698\Downloads\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\TechStore\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.deps.json
+C:\TechStore\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\TechStore\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\TechStore\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfo.cs
+C:\TechStore\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\TechStore\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\TechStore\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.deps.json
+E:\Blog\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+E:\Blog\BlogApi\Domain.DataModels\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+E:\Blog\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.AssemblyInfo.cs
+E:\Blog\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.dll
+E:\Blog\BlogApi\Domain.DataModels\obj\Debug\netcoreapp3.1\Domain.DataModels.pdb

@@ -1,0 +1,80 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csprojAssemblyReference.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CopyComplete
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.deps.json
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CopyComplete
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.dll
+C:\Users\1698\Downloads\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.pdb
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.deps.json
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.dll
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.pdb
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\TechStore\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csprojAssemblyReference.cache
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfo.cs
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CopyComplete
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.dll
+C:\TechStore\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.pdb
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.deps.json
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.dll
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Services.pdb
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+E:\Blog\BlogApi\Core.Services\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.AssemblyInfo.cs
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.csproj.CopyComplete
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.dll
+E:\Blog\BlogApi\Core.Services\obj\Debug\netcoreapp3.1\Core.Services.pdb

@@ -1,0 +1,64 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\1698\Downloads\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\TechStore\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\TechStore\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+E:\Blog\BlogApi\Infrastructure.Data\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+E:\Blog\BlogApi\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb

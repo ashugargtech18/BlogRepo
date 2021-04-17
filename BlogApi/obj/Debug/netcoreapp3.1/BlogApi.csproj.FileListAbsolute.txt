@@ -1,0 +1,226 @@
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csprojAssemblyReference.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfoInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfo.cs
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.Manifest.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.xml
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogApi.styles.css
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.RazorTargetAssemblyInfo.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.exe
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.deps.json
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.json
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.dev.json
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CopyComplete
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.genruntimeconfig.cache
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.pdb
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lalit Garg\source\repos\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.exe
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.deps.json
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.json
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.dev.json
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csprojAssemblyReference.cache
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfoInputs.cache
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfo.cs
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.Manifest.cache
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.xml
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogApi.styles.css
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.RazorTargetAssemblyInfo.cache
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CopyComplete
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.dll
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.pdb
+C:\Users\1698\Downloads\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.genruntimeconfig.cache
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.exe
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.deps.json
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.json
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.dev.json
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csprojAssemblyReference.cache
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfoInputs.cache
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfo.cs
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CoreCompileInputs.cache
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.Manifest.cache
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.xml
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogApi.styles.css
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.RazorTargetAssemblyInfo.cache
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CopyComplete
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.dll
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.pdb
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.genruntimeconfig.cache
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TechStore\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\TechStore\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.exe
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.deps.json
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.json
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.runtimeconfig.dev.json
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\BlogApi.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Scrutor.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\AppUtilities.Helpers.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.BusinessModels.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Core.Services.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Interfaces.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.DataModels.pdb
+E:\Blog\BlogApi\BlogApi\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csprojAssemblyReference.cache
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfoInputs.cache
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.AssemblyInfo.cs
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CoreCompileInputs.cache
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.Manifest.cache
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\staticwebassets\BlogApi.StaticWebAssets.xml
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogApi.styles.css
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.RazorTargetAssemblyInfo.cache
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.csproj.CopyComplete
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.dll
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.pdb
+E:\Blog\BlogApi\BlogApi\obj\Debug\netcoreapp3.1\BlogApi.genruntimeconfig.cache
